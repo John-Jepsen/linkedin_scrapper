@@ -1,7 +1,3 @@
-Here's the reformatted markdown text, maintaining the original wording while adopting the formatting style from your previous request:
-
----
-
 # Dev Job Scraper
 
 ### -- Project Status: [Active] [Open]
@@ -59,4 +55,5 @@ max_pages = 1000
 For any further questions, you can contact [John Jepsen](https://github.com/John-Jepsen) on Discord at John Jepsen#8888 or open an issue in this repository.
 
 ---
+
 # linkedin_scrapper
