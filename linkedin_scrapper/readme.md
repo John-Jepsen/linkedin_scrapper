@@ -1,7 +1,3 @@
-Here's the reformatted markdown text, maintaining the original wording while adopting the formatting style from your previous request:
-
----
-
 # Dev Job Scraper
 
 ### -- Project Status: [Active] [Open]
