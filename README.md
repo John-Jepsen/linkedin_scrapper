@@ -2,8 +2,6 @@
 
 ### -- Project Status: [Active] [Open]
 
-Instructions to fork <-> merge [repo_contribution_instructions](repo_contribution_instructions.md)
-
 ### Project Intro <-> Objective
 
 Automate the collection of job leads. This script is designed to scrape job listings from LinkedIn without the need to access the LinkedIn API or log into an account.
