@@ -6,7 +6,7 @@ Instructions to fork <-> merge [repo_contribution_instructions](repo_contributio
 
 ### Project Intro <-> Objective
 
-Automate the collecting of job leads. This script is designed to scrape job listings from LinkedIn without the need to access the LinkedIn API or log into an account.
+Automate the collection of job leads. This script is designed to scrape job listings from LinkedIn without the need to access the LinkedIn API or log into an account.
 
 ### Project Description
 
