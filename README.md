@@ -2,6 +2,8 @@
 
 ### -- Project Status: [Active] [Open]
 
+[Instructions to fork <-> merge](CONTRIBUTE.md)
+
 ### Project Intro <-> Objective
 
 Automate the collection of job leads. This script is designed to scrape job listings from LinkedIn without the need to access the LinkedIn API or log into an account.
@@ -17,7 +19,7 @@ The notebook requires the following libraries and/or dependencies:
 - 'Requests' library to perform HTTP requests without logging in.
 - 'BS4' (BeautifulSoup4) for parsing HTML pages.
 - 'Logging' for debugging and tracking the scraping process.
-- Concurrency implemented with ThreadPoolExecutor for faster scraping.
+- 'ThreadPoolExecutor' for implemeting concurrency to enable faster scraping.
 
 ### Usage
 
@@ -33,7 +35,7 @@ max_pages = 1000
 
 - Uses 'Pandas' for data manipulation and cleaning.
 - Consolidating process:
-  - Automates the compilation of CSVs collected from each scrape into a consolidated dataset.
+- Automates the compilation of CSVs collected from each scrape into a consolidated dataset.
 
 ### Areas of Improvement for this project
 
@@ -46,6 +48,7 @@ max_pages = 1000
 | Name                                          | Discord Handle    |
 | --------------------------------------------- | ----------------- |
 | [John Jepsen](https://github.com/John-Jepsen) | John Jepsen#8888  |
+| [Aragorn](https://en.wikipedia.org/wiki/Aragorn) | - |
 | ---------                                     | ----------------- |
 
 ### Contact
